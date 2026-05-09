@@ -12,6 +12,10 @@ const config: StorybookConfig = {
     "@storybook/addon-docs",
     "@storybook/addon-onboarding"
   ],
-  "framework": "@storybook/react-vite"
+  "framework": "@storybook/react-vite",
+  "docs": {
+    defaultName: "Documentation",
+    docsMode: true
+  }
 };
 export default config;
