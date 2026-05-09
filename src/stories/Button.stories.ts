@@ -53,24 +53,7 @@ export const Small: Story = {
   },
 };
 
-export const Fdghfdghdfg: Story = {
-  args: {
-    primary: false,
-    label: "Button",
-    size: "medium",
-    backgroundColor: "#ba1b1b"
-  }
-};
-
-export const SomeOther: Story = {
-  args: {
-    primary: false,
-    label: "Button",
-    size: "medium"
-  }
-};
-
-export const Fghjgfhnjm: Story = {
+export const Adsf: Story = {
   args: {
     primary: false,
     label: "Button"
