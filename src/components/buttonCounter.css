@@ -8,6 +8,22 @@
   border-radius: 4px;
 }
 
+.counter-button-1 {
+    font-weight: 700;
+    border: 2px solid #007bff;
+    border-radius: 99px;
+    background-color: transparent;
+    color: #007bff;
+}
+
+.counter-button-2 {
+    font-weight: 900;
+    border: 2px solid #ffd500;
+    border-radius: 99px;
+    background-color: #000;
+    color: #ffd500;
+}
+
 .counter-button--small {
     padding: 5px 10px;
     font-size: 14px;
